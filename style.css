@@ -1,0 +1,339 @@
+@media screen {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hero {
+        height: 70vh;
+        background: #FFCD9E;
+    }
+    
+    .mains {
+        float: left;
+        width: 50%;
+    }
+    
+    .label {
+        width: 562px;
+        height: 108px;
+    }
+    
+    
+    
+    .label .one {
+        position: relative;
+        width: 555px;
+        height: 89px;
+        padding-left: 155px;
+        padding-top: 55px;
+        color: #282828;
+        font-family: Inter;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 54px;
+    
+    }
+    
+    .l2 {
+        width: 495px;
+        height: 81px;
+    }
+    
+    .l2 .sec {
+        position: relative;
+        width: 495px;
+        height: 81px;
+        padding-top: 67px;
+        padding-left: 155px;
+        font-family: "Inter-Medium";
+        font-weight: 500;
+        color: #484848;
+        font-size: 20px;
+        letter-spacing: 0;
+        line-height: 32px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-shrink: 0;
+        font-style: normal;
+    }
+    
+    .l3 {
+        width: 227px;
+        height: 81px;
+    }
+    
+    .l3 .three {
+        position: relative;
+        display: flex;
+        width: 290px;
+        height: 81px;
+        flex-direction: column;
+        justify-content: center;
+        flex-shrink: 0;
+        padding-left: 155px;
+        padding-top: 68px;
+        font-family: "Inter-ExtraBold", Helvetica;
+        font-weight: 800;
+        color: #282828;
+        font-size: 20px;
+        font-style: normal;
+        letter-spacing: 0;
+        line-height: 32px;
+    }
+    
+    .main2 {
+        float: left;
+        width: 50%;
+    }
+    
+    .l4 {
+        padding-left: 155px;
+        padding-top: 68px;
+        flex-shrink: 0;
+        height: 64px;
+    }
+    
+    .l4 .four {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-shrink: 0;
+        font-family: Inter;
+        font-size: 20px;
+        font-style: normal;
+        padding-left: 20px;
+        font-weight: 400;
+        line-height: 32px;
+        width: 278px;
+        height: 45px;
+        background-color: white;
+        border-radius: 6px;
+        border: 3px solid;
+        border-color: black;
+    
+    }
+    
+    .l5 {
+        padding-left: 93px;
+        padding-top: 68px;
+        flex-shrink: 0;
+        width: 50%;
+        height: 64px;
+    }
+    
+    .five {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-shrink: 0;
+        color: #FFFFFF;
+        text-align: center;
+        font-family: Inter;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        width: 165px;
+        height: 45px;
+        background-color: black;
+        border-radius: 6px;
+        border: 3px solid;
+        border-color: black;
+    }
+    
+    .l6 {
+        width: 244px;
+        height: 25px;
+        padding-top: 139px;
+        padding-left: 116px;
+    }
+    
+    .l6 .six {
+        position: relative;
+        width: 344px;
+        height: 25px;
+        top: 0;
+        left: 0;
+        font-family: "Inter-Medium", Helvetica;
+        font-weight: 500;
+        color: #ffffff;
+        font-size: 13px;
+        text-align: center;
+        letter-spacing: 0;
+        line-height: 25.6px;
+    }
+    
+    .dweep-io {
+        position: relative;
+        width: 575px;
+        height: 575px;
+    }
+    
+    .dweep-io .surface {
+        position: absolute;
+        width: 429px;
+        height: 489px;
+        top: 16px;
+        left: 200px;
+    }
+    
+    /*FFFFFFFoooooooooootttttterrrrrrrrrrrrrrrr*/
+    
+    .footer {
+        height: 33vh;
+        background-color: #282828;
+    }
+    
+    .fmain{
+        width: 50%;
+        color: #FFFFFF;
+        float: left;
+    }
+    
+    .label1 {
+        width: 100px;
+        height: 30px;
+        flex-shrink: 0;
+      }
+    
+    .label2{
+        width: 100px;
+        height: 30px;
+        flex-shrink: 0;
+    }  
+      
+    .label1 .text-wrapper1 {
+        position: relative;
+        width: 100px;
+        padding-left: 191px;
+        font-family: "Inter-Regular", Helvetica;
+        font-weight: 100;
+        color: #ffffff;
+        font-size: 15px;
+        letter-spacing: 0;
+        line-height: 32px;
+        white-space: nowrap;
+    }
+    
+    .label1 .t2{
+        position: relative;
+        width: 100px;
+        padding-left: 191px;
+        font-family: "Inter-Regular", Helvetica;
+        font-weight: 100;
+        color: #ffffff;
+        font-size: 15px;
+        letter-spacing: 0;
+        line-height: 32px;
+        white-space: nowrap;
+    }
+    
+    .label1 .t4{
+        position: relative;
+        width: 100px;
+        padding-left: 191px;
+        font-family: "Inter-Regular", Helvetica;
+        font-weight: 100;
+        color: #ffffff;
+        font-size: 15px;
+        letter-spacing: 0;
+        line-height: 32px;
+        white-space: nowrap;
+    }
+    
+    .label1 .t5{
+        position: relative;
+        width: 100px;
+        padding-left: 191px;
+        font-family: "Inter-Regular", Helvetica;
+        font-weight: 100;
+        color: #ffffff;
+        font-size: 15px;
+        letter-spacing: 0;
+        line-height: 32px;
+        white-space: nowrap;
+    }
+    
+    .label1 .t6{
+        position: relative;
+        width: 100px;
+        padding-left: 191px;
+        font-family: "Inter-Regular", Helvetica;
+        color: #ffffff;
+        font-size: 15px;
+        letter-spacing: 0;
+        line-height: 32px;
+        white-space: nowrap;
+    }
+     
+    .label2 .text-wrapper2{
+        position: relative;
+        width: 100px;
+        font-family: "Inter-Regular", Helvetica;
+        color: #ffffff;
+        font-size: 15px;
+        padding-left: 375px;
+        text-align: right;
+        letter-spacing: 0;
+        line-height: 32px;
+        white-space: nowrap;
+    }  
+    
+    .label2 .t3{
+        position: relative;
+        width: 100px;
+        font-family: "Inter-Regular", Helvetica;
+        color: #ffffff;
+        font-size: 15px;
+        padding-left: 322px;
+        text-align: right;
+        letter-spacing: 0;
+        line-height: 32px;
+        white-space: nowrap;
+    }
+    
+    .label2 .t6{
+        position: relative;
+        width: 100px;
+        font-family: "Inter-Regular", Helvetica;
+        color: #ffffff;
+        font-size: 15px;
+        padding-left: 375px;
+        text-align: right;
+        letter-spacing: 0;
+        line-height: 32px;
+        white-space: nowrap;
+        padding-top: 63px;
+    }
+    
+    .fmain .lmain{
+        float: right;
+        width: 50%;
+    }
+    
+    .io {
+        width: 29px;
+        height: 27px;
+    }
+      
+    .io .linkedin-logo {
+        position: relative;
+        width: 29px;
+        height: 27px;
+        padding-left: 365px;
+    }
+    
+    .io .insta-logo{
+        position: relative;
+        width: 29px;
+        height: 27px;
+        padding-left: 448px;
+    }
+      
+        
+}
